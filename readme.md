@@ -3,7 +3,7 @@
 
 **TLDR:** Watch this [40s video instructions](https://imgur.com/a/vYmDNSZ)
 
-1. Select and Copy this script: [deleteDiscordMessages.js](https://raw.githubusercontent.com/victornpb/deleteDiscordMessages/master/deleteDiscordMessages.js)
+1. Select and Copy this script: [deleteDiscordMessages.js](https://raw.githubusercontent.com/BizzNizzez/deleteDiscordMessages/master/deleteDiscordMessages.js)
 
 2. Open [Discord](https://discordapp.com/channels/@me) in a __browser__ (like Chrome, Safari or Firefox)  
 and go to a #Channel or a DM conversation
@@ -29,7 +29,7 @@ and go to a #Channel or a DM conversation
 
 I made this tool just for you ❤️ , it would be awesome if you could just click the ⭐️ Star button at the top! 
    
-If you have issues or just need help [open an issue here](https://github.com/victornpb/deleteDiscordMessages/issues)
+If you have issues or just need help [open an issue here](https://github.com/BizzNizzez/deleteDiscordMessages/issues)
 
 > A few extra generous people asked for this, so here you can [buy me a coffee](https://www.buymeacoffee.com/vitim). Thank you! You'll be in my special list ^_^
 
@@ -49,10 +49,6 @@ If you have issues or just need help [open an issue here](https://github.com/vic
 - You can use your computer and discord while it is running (unlike macro key scripts)
 - Start/stop whenever you want
 - Works with even thousands of messages
-
-----
-
-Originally from https://gist.github.com/victornpb/135f5b346dea4decfc8f63ad7d9cc182
 
 ----
 
